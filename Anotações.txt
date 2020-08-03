@@ -1,0 +1,16 @@
+Anotações
+
+01/08/20
+
+https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2
+
+.Algoritmos
+.Lógica de Porgramação
+.Sintaxe
+
+.Comentários = <!-- ... -->
+
+.Barra esquerda = CRTL+B
+.Quebra de linha na tela atual = ALT+Z
+
+CSS = cascatas de estilos

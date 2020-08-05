@@ -1,6 +1,6 @@
 Anotações
 
-01/08/20
+03/08/20
 
 https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2
 
@@ -14,3 +14,8 @@ https://www.notion.so/Front-end-ab15ef64dbe7459aba38364cf60af9d2
 .Quebra de linha na tela atual = ALT+Z
 
 CSS = cascatas de estilos
+
+04/08/20
+
+.Melhorar Network
+.Melhorar o que já existe

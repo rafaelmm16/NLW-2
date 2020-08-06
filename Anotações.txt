@@ -19,3 +19,15 @@ CSS = cascatas de estilos
 
 .Melhorar Network
 .Melhorar o que já existe
+
+06/08/20
+
+https://www.notion.so/Back-end-4440c9aeda8c47d4856a8e4d4069e379
+
+.Tecnologia do Back-End:
+	.Javascript;
+	.Noje.js;
+	.Git Bash;
+	.Banco de dados: SQL;
+	.SQLite.
+

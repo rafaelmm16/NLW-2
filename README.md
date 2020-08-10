@@ -1,6 +1,7 @@
 # NLW-2
 :rocket: Segundo evento da Rocketseat a Next Level Week
 
+![](image.jpg)
 
 ## Instalação:
 
@@ -19,13 +20,13 @@ $ npm install nodemon -D
 
 ```bash
 $ npm run dev
- ou
+	ou
 $ node src/server.js
 
 No navegador abra:
 
 localhost:5500
- ou
+	ou
 127.0.0.1:5500
 
 CTRL+c (fecha o servidor)

@@ -1,16 +1,24 @@
 # NLW-2
-Segundo evento da Rocketseat a Next Level Week
+:rocket: Segundo evento da Rocketseat a Next Level Week
 
 
 ## Instalação:
 
-``
-Node.js
-``
+```sh
+	Node.js
+	Gitbash
+```
+# :computer: Tecnologias
 
 ```sh
 	npm install express
 	npm install nodemon -D
+```
+
+### 📦 Rodando a aplicação
+
+```bash
+	
 
 	npm run dev
 	 ou
